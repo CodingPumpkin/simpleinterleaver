@@ -1,0 +1,22 @@
+testpackages = [
+#int8package 
+	[1:256;],
+#uint8package
+	[1:256;],
+#int16package
+	[1:256;],
+#uint16package
+	[1:256;],
+#int32package
+	[1:256;],
+#uint32
+	[1:256;],
+#boolean 
+	[1,0,1,1,0,0,0,1,0,1,0,1],
+#singlepackage
+	[0.1:0.1:1.2;],
+#doublepackage 
+	[0.001:0.001:0.012;],
+#fixedpoinpackage 
+	[0,0,0,0]
+]
