@@ -21,5 +21,4 @@ Okay, so basically I am building my strength to write a Convolutional Interleave
 I also recommend having a look at [this paper](https://www.cs.cornell.edu/~kozen/Papers/interl.pdf) if you wish to learn more. Warning: maths ahead. 
 
 ## Important note
-Only test 8 works for sure. I want to create vectors of various types of data. As of now the whole testpackages file is a bit of a mess. I plan on improving it in the future.
-Anyway as of now I'm just happy that I got a chance to write a little script in Julia.
+Test 9 is broken. I will move on from this project for now. Hope to back and fix test 9 some day...

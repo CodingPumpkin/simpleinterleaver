@@ -16,7 +16,5 @@ testpackages = Dict(
 #singlepackage
 	8 => Vector{Float32}([0.1:0.1:1.2;]),
 #doublepackage 
-	9 => Vector{Float64}([0.00000001:0.00000001:0.00000012;]),
-#fixedpoinpackage 
-#	[0,0,0,0]
+	9 => Vector{Float64}([0.00000001:0.00000001:0.00000012;])
 )
